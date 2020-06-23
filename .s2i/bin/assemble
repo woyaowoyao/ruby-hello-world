@@ -62,4 +62,4 @@ set +e
 [[ -d ./db ]] && chgrp -R 0 ./db && chmod -R g+rw ./db
 set -e
 
-echo "---> CUSTOM S2I ASSEMBLE COMPLETE"
+echo "---> CUSTOM S2I ASSEMBLE COMPLETE...."
